@@ -1,4 +1,4 @@
-# IT-courses-completed
+# Computer-courses-completed
 GCP
 Appium
 JMeter
