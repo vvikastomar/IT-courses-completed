@@ -3,3 +3,4 @@ GCP
 Appium
 JMeter
 Postman
+Working on Azure Cloud Architect 
